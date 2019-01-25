@@ -92,38 +92,38 @@ img, video, audio {
   background: #eee;
 }
 
-.col-1 {
-  float: left;
-  width: 32%;
-  background: #ccc;
-}
+/*.col-1 {*/
+/*  float: left;*/
+/*  width: 32%;*/
+/*  background: #ccc;*/
+/*}*/
 
-.col-2 {
-  float: left;
-  width: 66%;
-  background: #ccc;
-}
+/*.col-2 {*/
+/*  float: left;*/
+/*  width: 66%;*/
+/*  background: #ccc;*/
+/*}*/
 
-.col-3 {
-  background: #ccc;
-}
+/*.col-3 {*/
+/*  background: #ccc;*/
+/*}*/
 
-.clearfix: after {
-  content: ".";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  height: 0;
-  line-height: 0;
-}
+/*.clearfix: after {*/
+/*  content: ".";*/
+/*  display: block;*/
+/*  clear: both;*/
+/*  visibility: hidden;*/
+/*  height: 0;*/
+/*  line-height: 0;*/
+/*}*/
 
-[class*="col-"] {
-  margin-left: 2%;
-}
+/*[class*="col-"] {*/
+/*  margin-left: 2%;*/
+/*}*/
 
-.first {
-  margin-left: 0%;
-}
+/*.first {*/
+/*  margin-left: 0%;*/
+/*}*/
 
 /*/// SECTIONS ///*/
 
