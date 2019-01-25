@@ -117,9 +117,9 @@ img, video, audio {
 /*  line-height: 0;*/
 /*}*/
 
-/*[class*="col-"] {*/
-/*  margin-left: 2%;*/
-/*}*/
+[class*="col-"] {
+  margin-left: 2%;
+}
 
 /*.first {*/
 /*  margin-left: 0%;*/
